@@ -17,6 +17,7 @@ home-banner-image-position: # Default is center
 ##########
 # ITEM PAGE
 #
+featured-image: /objects/sunken.jpeg
 # see _data/metadata-config.csv to define the metadata fields that will display.
 browse-buttons: true # true/false, adds previous/next arrows to item pages
 
