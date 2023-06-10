@@ -13,9 +13,7 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the Team" %}
 
 ## About the Collection
-Test.
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/).
+This collection is a compilation of the photos of the different kiosks in University of the Philippines Diliman. This was made with the objective of creating a visitor's or newcomer's guide on what possible kiosks to visit for snacks and to have easy access to what specialties each of the kiosks have. Apart from these practical reasons, this project is also a good opportunity to get to know the people behind the kiosks and help them by letting this website function as a form of advertisement for them as well. Interviews were conducted on consenting kiosk owners/managers. Information from these interview results were then summarized in the description tag of each of the kiosks upon browsing. Audio recordings of the interviews were taken but not included in this collection for the privacy of the interviewees. This project is a submission in partial fulfillment of CWTS 2 - SLIS under Paul Jason Perez.
 
 ## About the the Team
-
-Test.
+The team is composed of Lorenzo Faustino Baquiran, Jamie Casbadillo, Julian Louise Castro, Loren Angela Hernandez, and Alginie Jacob Mendoza, all University of the Philippines Diliman students in the CWTS 2 - SLIS class of Paul Jason Perez.
