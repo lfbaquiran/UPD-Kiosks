@@ -6,6 +6,8 @@ The team is composed of Lorenzo Faustino Baquiran, Jamie Casbadillo, Julian Loui
 
 {% include feature/image.html objectid="/objects/jamie.jpg" width="50" caption="Jamie Casbadillo" %}
 
-{% include feature/image.html objectid="/objects/julian.jpg" width="50" caption="Loren Angela Hernandex" %}
+{% include feature/image.html objectid="/objects/julian.jpg" width="50" caption="Julian Louise Castro" %}
+
+{% include feature/image.html objectid="/objects/loren.jpg" width="50" caption="Loren Angela Hernandez" %}
 
 {% include feature/image.html objectid="/objects/jacob.jpg" width="50" caption="Alginie Jacob Mendoza" %}
